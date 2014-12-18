@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<title>$1</title>
+
+$0
+]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
